@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ngan"
+  name             : "Ngan Hien Lyle"
   avatar           : "profile.png"
   bio              : "Infectious diseases | Data Science"
   location         : "Ho Chi Minh City, Vietnam"
@@ -109,7 +109,7 @@ author:
 #   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#   twitter          : "nganhien"
   vine             :
   weibo            :
   xing             :
