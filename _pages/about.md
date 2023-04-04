@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Home"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to my corner of the web!
+Welcome to my corner of the internet!
 
 I am a Canadian adult infectious diseases physician. I live in the Kelowna, British Columbia with my husband and two children. I have worked as a clinician since 2013. Recently, in 2020, I completed a Masters in Data Science at the University of British Columbia Okanagan. 
 
