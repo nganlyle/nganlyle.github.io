@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Ngan Lyle, MD, MSc
+# Ngan Lyle, MD, MDS
 
 *Infectious Diseases Physician · Data Scientist · Digital Health Researcher*
 
