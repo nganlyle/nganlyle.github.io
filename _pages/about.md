@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Ngan Lyle, MD, MSc
-
 *Infectious Diseases Physician · Data Scientist · Digital Health Researcher*
 
 Kelowna, British Columbia
@@ -24,16 +22,16 @@ I am an infectious diseases physician and data scientist interested in using wea
 My work sits at the intersection of clinical medicine, data science, physiological sensing, and artificial intelligence.
 
 ### Wearable physiological sensing
-PPG · continuous physiological signals · wearable sensors
+PPG · continuous physiological monitoring · wearable sensors
 
-### AI & physiological waveforms
-Machine learning · signal analysis · waveform data
+### Data Science & AI
+Big data · waveform analysis · modern statistics
 
 ### Infectious diseases
-Clinical research · dengue · physiological changes in acute illness
+Clinical care · physiological changes in acute and chronic infection
 
-### Open & participatory research
-Accessible tools · open data · reproducible research
+### Open data & methods
+Accessible tools · open data · participatory research
 
 ## Projects
 
@@ -41,14 +39,14 @@ Accessible tools · open data · reproducible research
 
 *Open tools for physiological data research*
 
-Sympath is a research initiative exploring how wearable sensors and accessible software can make high-quality physiological waveform data easier to collect, analyze, and share.
+Sympath is a data platform that makes high-quality physiological data easier to collect, analyze, and share.
 
 ## Teaching
 
-I am a Clinical Assistant Professor in the UBC Department of Medicine, where I combine clinical practice with teaching and mentorship.
+I am a Clinical Assistant Professor in the UBC Department of Medicine, where I combine clinical practice with teaching.
 
 ## Current focus
 
-My current research focuses on physiological signals collected from wearable devices, with particular interest in photoplethysmography (PPG), continuous monitoring, and machine learning. I am also interested in making physiological data and research tools more accessible to researchers and individuals.
+My current focus is on physiological signals collected from wearable devices, with a particular interest in photoplethysmography (PPG), continuous monitoring, modern statistics and machine learning. 
 
-My goal is to connect rigorous clinical research with practical, open, and reproducible approaches to physiological data.
+My goal is to define practical, open, and reproducible approaches in the collection and analysis of physiological data.
