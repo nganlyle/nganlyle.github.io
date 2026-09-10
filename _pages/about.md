@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Ngan Lyle, MD, MSc
 
 *Infectious Diseases Physician · Data Scientist · Digital Health Researcher*
 
@@ -13,13 +14,10 @@ Kelowna, British Columbia
 
 I am an infectious diseases physician and data scientist interested in using wearable physiological sensors, continuous waveform data, and artificial intelligence to better understand human physiology and disease.
 
-[Explore my research](#current-focus) · [View publications](/publications/)
-
+[View publications](/publications/)
 ---
 
-## Research
-
-My work sits at the intersection of clinical medicine, data science, physiological sensing, and artificial intelligence.
+## Research Interests
 
 ### Wearable physiological sensing
 PPG · continuous physiological monitoring · wearable sensors
@@ -37,13 +35,11 @@ Accessible tools · open data · participatory research
 
 ### Sympath
 
-*Open tools for physiological data research*
-
 Sympath is a data platform that makes high-quality physiological data easier to collect, analyze, and share.
 
 ## Teaching
 
-I am a Clinical Assistant Professor in the UBC Department of Medicine, where I combine clinical practice with teaching.
+I am a Clinical Assistant Professor in the UBC Department of Medicine, where I combine clinical practice and research with teaching.
 
 ## Current focus
 
