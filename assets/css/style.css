@@ -21,24 +21,22 @@ a:hover { border-bottom-color: #202124; }
 
 .site-header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   padding: 28px 0;
   border-bottom: 1px solid #e3e3e0;
 }
 
 .site-name { border: 0; font-weight: 650; letter-spacing: .01em; }
-.site-header nav { display: flex; gap: 24px; font-size: 14px; }
-.site-header nav a { border: 0; }
+.site-header nav { display: none; }
 
 .site-main { padding: 76px 0 90px; }
 
 .home-hero { position: relative; padding-bottom: 58px; }
 .home-hero h1 {
   margin: 0 0 8px;
-  font-size: clamp(2.6rem, 6vw, 4.5rem);
-  line-height: 1.05;
-  letter-spacing: -.045em;
+  font-size: clamp(2rem, 4.2vw, 3.25rem);
+  line-height: 1.08;
+  letter-spacing: -.035em;
   font-weight: 650;
 }
 .home-role { margin: 0; font-size: 1.15rem; color: #555; }
@@ -100,7 +98,6 @@ a:hover { border-bottom-color: #202124; }
   body { font-size: 16px; }
   .site-header, .site-footer, .site-main { width: min(100% - 32px, 920px); }
   .site-header { padding: 22px 0; }
-  .site-header nav { gap: 16px; }
   .site-main { padding-top: 52px; }
   .home-intro { font-size: 1.12rem; }
   .research-list { grid-template-columns: 1fr; gap: 22px; }
