@@ -33,14 +33,14 @@ a:hover { border-bottom-color: #202124; }
 
 .home-hero { position: relative; padding-bottom: 58px; }
 .home-hero h1 {
-  margin: 0 0 8px;
-  font-size: clamp(2rem, 4.2vw, 3.25rem);
-  line-height: 1.08;
-  letter-spacing: -.035em;
+  margin: 0 0 7px;
+  font-size: clamp(1.85rem, 3.5vw, 2.7rem);
+  line-height: 1.12;
+  letter-spacing: -.03em;
   font-weight: 650;
 }
-.home-role { margin: 0; font-size: 1.15rem; color: #555; }
-.home-location { margin: 5px 0 34px; color: #777; font-size: .95rem; }
+.home-role { margin: 0; font-size: 1.1rem; color: #555; }
+.home-location { margin: 4px 0 34px; color: #777; font-size: .92rem; }
 .home-intro { max-width: 730px; font-size: 1.3rem; line-height: 1.65; margin: 0; }
 
 .home-waveform {
@@ -99,6 +99,7 @@ a:hover { border-bottom-color: #202124; }
   .site-header, .site-footer, .site-main { width: min(100% - 32px, 920px); }
   .site-header { padding: 22px 0; }
   .site-main { padding-top: 52px; }
+  .home-hero h1 { font-size: 2rem; }
   .home-intro { font-size: 1.12rem; }
   .research-list { grid-template-columns: 1fr; gap: 22px; }
   .home-waveform { margin-top: 34px; }
