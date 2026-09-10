@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <div class="home-hero">
-  <h1>Ngan Lyle, MD, MDS</h1>
-  <p class="home-role"><em>Infectious Diseases Physician · Data Scientist · Digital Health Researcher</em></p>
+  <h1>Ngan Hien Lyle (Nguyen), MD, MDS</h1>
+  <p class="home-role"><em>Infectious Diseases Physician · Data Scientist</em></p>
   <p class="home-location">Kelowna, British Columbia</p>
   <p class="home-intro">I am an infectious diseases physician and data scientist interested in using wearable physiological sensors, continuous waveform data, and artificial intelligence to better understand human physiology and disease.</p>
   <img class="home-waveform" src="/assets/images/home-waveform.svg" alt="" aria-hidden="true">
