@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description }}">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-name" href="{{ '/' | relative_url }}">Ngan Lyle</a>
+    <nav>
+      <a href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a href="{{ '/cv/' | relative_url }}">CV</a>
+    </nav>
+  </header>
+  <main class="site-main home-page">{{ content }}</main>
+  <footer class="site-footer">
+    <span>Kelowna, British Columbia</span>
+    <span><a href="https://github.com/nganlyle">GitHub</a></span>
+    <span><a href="mailto:ngan.lyle@ubc.ca">ngan.lyle@ubc.ca</a></span>
+  </footer>
+</body>
+</html>
