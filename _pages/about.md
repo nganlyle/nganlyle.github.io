@@ -1,14 +1,55 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: "Home"
+excerpt: "Infectious Diseases Physician · Data Scientist · Digital Health Researcher"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my corner of the internet!
 
-I am a Canadian adult infectious diseases physician. I live in the Kelowna, British Columbia with my husband and two children. I have worked as a clinician since 2013. Recently, in 2020, I completed a Masters in Data Science at the University of British Columbia Okanagan. 
+# Ngan Lyle, MD, MSc
 
-Currently I work as a research fellow within the [Dengue Group](https://www.oucru.org/dengue/) at the Oxford University Clinical Research Unit ([OUCRU](https://www.oucru.org/)) in Vietnam. I am investigating how real-time waveform data from wearable devices can be used to help in the management of dengue disease. 
+**Infectious Diseases Physician · Data Scientist · Digital Health Researcher**
+
+Kelowna, British Columbia
+
+I am an infectious diseases physician and data scientist interested in using **wearable physiological sensors, continuous waveform data, and artificial intelligence** to better understand human physiology and disease.
+
+[Explore my research](#current-focus) · [View publications](/publications/)
+
+---
+
+## Research
+
+My work sits at the intersection of **clinical medicine, data science, physiological sensing, and artificial intelligence**.
+
+**Wearable Physiological Sensing**  
+PPG · continuous physiological signals · wearable sensors
+
+**AI & Physiological Waveforms**  
+Machine learning · signal analysis · waveform data
+
+**Infectious Diseases**  
+Clinical research · dengue · physiological changes in acute illness
+
+**Open & Participatory Research**  
+Accessible tools · open data · reproducible research
+
+## Projects
+
+### Sympath
+
+**Open tools for physiological data research**
+
+Sympath is a research initiative exploring how wearable sensors and accessible software can make high-quality physiological waveform data easier to collect, analyze, and share.
+
+## Teaching
+
+I am a Clinical Assistant Professor in the UBC Department of Medicine, where I combine clinical practice with teaching and mentorship.
+
+## Current focus
+
+My current research focuses on physiological signals collected from wearable devices, with particular interest in **photoplethysmography (PPG), continuous monitoring, and machine learning**. I am also interested in making physiological data and research tools more accessible to researchers and individuals.
+
+My goal is to connect rigorous clinical research with practical, open, and reproducible approaches to physiological data.
