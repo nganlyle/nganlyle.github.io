@@ -1,12 +1,13 @@
 ---
 permalink: /
+title: ""
 excerpt: "Infectious Diseases Physician · Data Scientist · Digital Health Researcher"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-# Ngan Lyle, MD, MDS
+# Ngan Lyle, MD, MSc
 
 *Infectious Diseases Physician · Data Scientist · Digital Health Researcher*
 
