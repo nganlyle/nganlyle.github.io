@@ -47,6 +47,12 @@ redirect_from:
 </div>
 
 <div class="home-section">
+  <h2>Publications</h2>
+  <p>My research includes work in infectious diseases, wearable physiological sensing, and data science.</p>
+  <p><a class="text-link" href="https://pubmed.ncbi.nlm.nih.gov/?term=Ngan%20Lyle">View publications on PubMed&nbsp;→</a></p>
+</div>
+
+<div class="home-section">
   <h2>Academic &amp; clinical work</h2>
   <p>I am a Clinical Assistant Professor in the UBC Department of Medicine and an Infectious Diseases consultant at Kelowna General Hospital. My work combines clinical medicine, research, teaching, and data science.</p>
 </div>
