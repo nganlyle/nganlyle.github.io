@@ -50,9 +50,3 @@ redirect_from:
   <h2>Academic &amp; clinical work</h2>
   <p>I am a Clinical Assistant Professor in the UBC Department of Medicine and an Infectious Diseases consultant at Kelowna General Hospital. My work combines clinical medicine, research, teaching, and data science.</p>
 </div>
-
-<div class="home-section">
-  <h2>Publications</h2>
-  <p>I publish on infectious diseases, physiological data, wearable sensing, and artificial intelligence.</p>
-  <p><a href="/publications/">View publications →</a></p>
-</div>
